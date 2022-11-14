@@ -8,7 +8,7 @@
 - The five switches are in initial positions: {off, off, on, off, off}.
 - Make all switches turn on
 
-Generate plan:
+Generate plan:  
 <img width="551" alt="plan_2_2" src="https://user-images.githubusercontent.com/14234116/201556849-593179c2-91cd-4969-8915-9d1883c46c90.png">
 
 
@@ -17,7 +17,7 @@ Generate plan:
 - The ten switches are in initial positions: {on, off, on, off, off, on, off, off, on, off}.
 - A switch can only be switched on if it has exactly one neighbour that is already on.
 
-Generated plan:
+Generated plan:  
 <img width="583" alt="plan_2_2_bonus" src="https://user-images.githubusercontent.com/14234116/201556883-f1d680bd-3c08-40ca-851f-07fdcff6a5c1.png">
 
 
@@ -49,7 +49,7 @@ Goal state:
 - package 1 and 3 in location wp9
 - package 2 and 4 in location wp2
 
-Generated plan:
+Generated plan:  
 [Link to plan pdf](Logistics/plan.pdf)
 
 
