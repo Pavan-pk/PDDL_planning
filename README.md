@@ -52,7 +52,26 @@ Goal state:
 Generated plan:  
 [Link to plan pdf](Logistics/plan.pdf)
 
+## Logistics domain now with durative ations and added vehicles like plane and boat.
 
+<img width="1027" alt="Screenshot 2022-11-15 at 1 51 07 PM" src="https://user-images.githubusercontent.com/14234116/202022800-c0721caa-a0be-48eb-9329-f6ddca5f169f.png">
+
+- Packages can be loaded into and unloaded from trucks (10 time units).
+- Drivers can walk between connected waypoints (at a speed of 0.5).
+- Drivers can get into and out of trucks (10 time units).
+- Trucks with drivers can drive between connected waypoints (at a speed of 1).
+- The boat and the plane don’t need drivers to move.
+- They can only travel over the blue and yellow edges (connected to the lighthouse and the sky). Trucks can only travel on roads.
+- The boat travels at a speed of 1.5.
+- The plane travels at a speed of 2
+
+Generated Plan:
+[Link to plan pdf] (Logistics%20with%20durative%20actions/plan.pdf)
+
+## Logistics domain with dealines for delivery modelled with TImed initial literals
+
+Generated plan:
+[Link to plan pdf] (Logistics%20with%20Timed%20Initial%20Literal/plan.pdf)
 
 
 
