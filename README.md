@@ -1,4 +1,5 @@
 # Plannning
+Planner used : https://popf-cloud-solver.herokuapp.com
 
 ## Tricky switch domain
 - A switch can be toggled.
