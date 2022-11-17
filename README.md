@@ -72,7 +72,7 @@ Generated Plan:
 ## Logistics domain with dealines for delivery modelled with TImed initial literals
 
 Generated plan:
-[Link to plan pdf] (Logistics%20with%20Timed%20Initial%20Literal/plan.pdf)
+[Link to plan pdf] (https://github.com/Pavan-pk/Plannning/blob/main/Logistics%20with%20Timed%20Initial%20Literal/plan.pdf)
 
 
 
